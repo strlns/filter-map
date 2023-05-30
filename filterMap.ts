@@ -1,4 +1,6 @@
 /**
+ * @autor Moritz Rehbach <dev@moritzrehbach.de>
+ *
  * Simple utility to combine map and filter in a single pass,
  * without pulling in a larger library to chain transformations lazily.
  *
